@@ -3,9 +3,7 @@
 
 <div>
   <a href="https://github.com/LourivalSousa">
-   <div align="center" style="display: inline_block">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourivalSousa&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>
 </div>
   
 #### Tecnologias 
